@@ -1,0 +1,216 @@
+
+
+[
+    {
+        "title":"Controls",
+        "imgUrl":"slider.horizontal.3",
+        "isExpanded": false,
+        "detail": [{
+            "title":"Buttons",
+            "imgUrl":"square.on.square",
+            "isExpanded": false,
+            "detail": [{
+                "title":"Buttons",
+                "imgUrl":"slider.horizontal.3",
+                "isExpanded": true,
+                },
+                {
+                    "title":"Menu Buttons",
+                    "imgUrl":"slider.horizontal.3",
+                    "isExpanded": true,
+                }
+            ]
+        },
+            {
+                "title":"Page Controls",
+                "imgUrl":"photo.on.rectangle",
+                "isExpanded": false,
+                "detail": [{
+                            "title":"Page Controls",
+                            "imgUrl":"slider.horizontal.3",
+                            "isExpanded": true,
+                    },
+                    {
+                     "title":"Custom Page Controls",
+                     "imgUrl":"slider.horizontal.3",
+                     "isExpanded": true,
+                        }
+                ]
+            },
+            {
+                "title":"Search Bars",
+                "imgUrl":"magnifyingglass",
+                "isExpanded": false,
+                "detail": [ {
+                             "title":"Default Search Bars",
+                             "imgUrl":"slider.horizontal.3",
+                             "isExpanded": true,
+                    },
+                    {
+                     "title":"Custom Search Bars",
+                     "imgUrl":"slider.horizontal.3",
+                     "isExpanded": true,
+                    }
+                ]
+            },
+            {
+                "title":"Segmented Controls",
+                "imgUrl":"https://developer.apple.com/swift/images/swift-og.png",
+                "isExpanded": false,
+                "detail": []
+            },
+            {
+                "title":"Sliders",
+                "imgUrl":"https://developer.apple.com/swift/images/swift-og.png",
+                "isExpanded": false,
+                "detail": []
+            },
+            {
+                "title":"Switches",
+                "imgUrl":null,
+                "isExpanded": false,
+                "detail": []
+            },
+            {
+                "title":"Text Field",
+                "imgUrl":null,
+                "isExpanded": false,
+                "detail": []
+            },
+            {
+                "title":"Steppers",
+                "imgUrl":null,
+                "isExpanded": false,
+                "detail": []
+            }
+            
+    ]
+        },
+    
+    
+    
+    {
+        "title":"Views",
+        "imgUrl":"person.crop.rectangle.stack",
+        "isExpanded": false,
+        "detail": [{
+            "title":"Activity Indicators",
+            "imgUrl":"https://developer.apple.com/swift/images/swift-og.png",
+            "isExpanded": false,
+            "detail":[]
+        },
+            {
+                "title":"Alert Controllers",
+                "imgUrl":"https://developer.apple.com/swift/images/swift-og.png",
+                "isExpanded": false,
+                "detail":[]
+            },
+            {
+                "title":"Text Views",
+                "imgUrl":null,
+                "isExpanded": false,
+                "detail":[]
+            },
+            {
+                "title":"Image Views",
+                "imgUrl":"photo",
+                "isExpanded": false,
+                "detail":[{
+                           "title":"Image Views",
+                           "imgUrl":"slider.horizontal.3",
+                           "isExpanded": true,
+                        },
+                    
+                    {
+                     "title":"SF Symbols",
+                     "imgUrl":"slider.horizontal.3",
+                     "isExpanded": true,
+                        }]
+            },
+            {
+                "title":"Progress Views",
+                "imgUrl":null,
+                "isExpanded": false,
+                "detail":[]
+            },
+            {
+                "title":"Stack Views",
+                "imgUrl":null,
+                "isExpanded": false,
+                "detail":[]
+            },
+            {
+                "title":"Tool Bar",
+                "imgUrl":"hammer",
+                "isExpanded": false,
+                "detail":[{
+                           "title":"Default Tool Bar",
+                           "imgUrl":"slider.horizontal.3",
+                           "isExpanded": true,
+                    },
+                    {
+                     "title":"Tinted Tool Bar",
+                     "imgUrl":"slider.horizontal.3",
+                     "isExpanded": true,
+                        },
+                    {
+                     "title":"Custom Tool Bar",
+                     "imgUrl":"slider.horizontal.3",
+                     "isExpanded": true,
+                        }
+                ]
+            },
+            {
+                "title":"Visual Effect",
+                "imgUrl":null,
+                "isExpanded": false,
+                "detail":[]
+            },
+            {
+                "title":"Web View",
+                "imgUrl":null,
+                "isExpanded": false,
+                "detail":[]
+            }
+        ]
+    },
+    {
+        "title":"Pickers",
+        "imgUrl":"list.bullet",
+        "isExpanded": false,
+        "detail": [{
+            "title":"Date Picker",
+            "imgUrl":"https://developer.apple.com/swift/images/swift-og.png",
+            "isExpanded": false,
+            "detail":[]
+        },
+            {
+                "title":"Color Picker",
+                "imgUrl":"https://developer.apple.com/swift/images/swift-og.png",
+                "isExpanded": false,
+                "detail": []
+            },
+            {
+                "title":"Font Picker",
+                "imgUrl":null,
+                "isExpanded": false,
+                "detail":[]
+            },
+            {
+                "title":"Image Picker",
+                "imgUrl":null,
+                "isExpanded": false,
+                "detail":[]
+            },
+            {
+                "title":"Picker View",
+                "imgUrl":null,
+                "isExpanded": false,
+                "detail":[]
+            },
+        ]
+        }
+]
+
+
+
